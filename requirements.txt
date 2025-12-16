@@ -2,3 +2,4 @@ flask
 numpy
 pandas
 gunicorn
+pandas==1.5.3
